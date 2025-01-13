@@ -1,0 +1,4 @@
+Sitemap: http://goochdis.com/sitemapindex.xml
+
+User-Agent: *
+Host: goochdis.com
