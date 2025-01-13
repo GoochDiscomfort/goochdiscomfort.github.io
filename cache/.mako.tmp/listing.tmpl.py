@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1736783319.3774142
+_modified_time = 1736783470.1248758
 _enable_loop = True
 _template_filename = '/home/ewallace/nikola-env/lib/python3.11/site-packages/nikola/data/themes/base/templates/listing.tmpl'
 _template_uri = 'listing.tmpl'
@@ -31,15 +31,15 @@ def render_body(context,**pageargs):
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         folders = context.get('folders', UNDEFINED)
-        crumbs = context.get('crumbs', UNDEFINED)
         ui = _mako_get_namespace(context, 'ui')
         messages = context.get('messages', UNDEFINED)
+        source_link = context.get('source_link', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
-        files = context.get('files', UNDEFINED)
         code = context.get('code', UNDEFINED)
-        title = context.get('title', UNDEFINED)
-        source_link = context.get('source_link', UNDEFINED)
+        files = context.get('files', UNDEFINED)
+        crumbs = context.get('crumbs', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -57,15 +57,15 @@ def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         folders = context.get('folders', UNDEFINED)
-        crumbs = context.get('crumbs', UNDEFINED)
         ui = _mako_get_namespace(context, 'ui')
         messages = context.get('messages', UNDEFINED)
+        source_link = context.get('source_link', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         def content():
             return render_content(context)
-        files = context.get('files', UNDEFINED)
         code = context.get('code', UNDEFINED)
-        title = context.get('title', UNDEFINED)
-        source_link = context.get('source_link', UNDEFINED)
+        files = context.get('files', UNDEFINED)
+        crumbs = context.get('crumbs', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(ui.breadcrumbs(crumbs)))
