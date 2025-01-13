@@ -1,0 +1,15 @@
+/*@font-face{
+	font-family: 'reciept';
+	src: url('receptional-receipt-webfont.woff2') format('woff2'),
+	url('receptional-receipt-webfont.woff') format ('woff');
+	font-weight: normal;
+	font-style: normal;
+* {
+	font-family: 'receipt';
+}
+*//*
+* {
+	font-family: 'Receiptional-Recipt', 'courier';
+	cursor: nw-resize;
+}
+*/
