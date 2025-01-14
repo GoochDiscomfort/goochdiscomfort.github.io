@@ -1,4 +1,4 @@
-Sitemap: http://goochdis.com/sitemapindex.xml
+Sitemap: http://goochdiscomfort.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: goochdis.com
+Host: goochdiscomfort.github.io
