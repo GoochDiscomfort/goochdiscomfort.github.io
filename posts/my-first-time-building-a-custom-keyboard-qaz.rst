@@ -24,7 +24,7 @@ While the idea of a QAZ layout might seem strange and inconvinient at first, I t
 
 
 Parts List & Why I chose them
-
+=============================
 
 .. list-table:: Parts List
     :widths: 75 25
