@@ -20,11 +20,11 @@ BLOG_AUTHOR = "Gooch Discomfort"  # (translatable)
 BLOG_TITLE = "Gooch Discomfort - Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://goochdis.com/"
+SITE_URL = "http://goochdiscomfort.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://goochdis.com/"
-BLOG_EMAIL = "gooch@discomfort.net"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "Writing about Bikes, Tech and anything else that takes my fancy"  # (translatable)
 
 # Nikola is multilingual!
@@ -801,7 +801,8 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized. (See also EXIF_WHITELIST)
-# PRESERVE_EXIF_DATA = False
+PRESERVE_EXIF_DATA = False
+EXIF_WHITELIST = {}
 
 # If you have enabled PRESERVE_EXIF_DATA, this option lets you choose EXIF
 # fields you want to keep in images. (See also PRESERVE_EXIF_DATA)
