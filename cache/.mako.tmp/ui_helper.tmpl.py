@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1736868188.8409145
+_modified_time = 1737211817.7852564
 _enable_loop = True
-_template_filename = '/home/ewallace/nikola-env/lib/python3.11/site-packages/nikola/data/themes/base/templates/ui_helper.tmpl'
+_template_filename = 'themes/bootstrap/templates/ui_helper.tmpl'
 _template_uri = 'ui_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['breadcrumbs']
@@ -54,6 +54,6 @@ def render_breadcrumbs(context,crumbs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/ewallace/nikola-env/lib/python3.11/site-packages/nikola/data/themes/base/templates/ui_helper.tmpl", "uri": "ui_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 18, "27": 2, "32": 2, "33": 3, "34": 4, "35": 6, "37": 7, "39": 8, "40": 9, "41": 9, "42": 9, "43": 10, "44": 11, "45": 11, "46": 11, "47": 11, "48": 11, "49": 15, "55": 49}}
+{"filename": "themes/bootstrap/templates/ui_helper.tmpl", "uri": "ui_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 18, "27": 2, "32": 2, "33": 3, "34": 4, "35": 6, "37": 7, "39": 8, "40": 9, "41": 9, "42": 9, "43": 10, "44": 11, "45": 11, "46": 11, "47": 11, "48": 11, "49": 15, "55": 49}}
 __M_END_METADATA
 """

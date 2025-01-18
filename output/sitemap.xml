@@ -15,11 +15,19 @@
  </url>
  <url>
   <loc>http://goochdiscomfort.github.io/archive.html</loc>
-  <lastmod>2025-01-14T14:37:00Z</lastmod>
+  <lastmod>2025-01-18T14:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://goochdiscomfort.github.io/categories/</loc>
-  <lastmod>2025-01-14T15:21:00Z</lastmod>
+  <lastmod>2025-01-18T14:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://goochdiscomfort.github.io/categories/keyboards/</loc>
+  <lastmod>2025-01-18T14:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://goochdiscomfort.github.io/categories/tech/</loc>
+  <lastmod>2025-01-18T14:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://goochdiscomfort.github.io/galleries/</loc>
@@ -39,7 +47,7 @@
  </url>
  <url>
   <loc>http://goochdiscomfort.github.io/listings/hello.py.html</loc>
-  <lastmod>2025-01-14T14:37:00Z</lastmod>
+  <lastmod>2025-01-18T14:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://goochdiscomfort.github.io/pages/about-nikola/</loc>
@@ -96,6 +104,10 @@
  <url>
   <loc>http://goochdiscomfort.github.io/pages/theming/</loc>
   <lastmod>2025-01-13T17:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://goochdiscomfort.github.io/posts/building-a-custom-keyboard-part-2-programming/</loc>
+  <lastmod>2025-01-18T14:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://goochdiscomfort.github.io/posts/my-first-time-building-a-custom-keyboard-qaz/</loc>
