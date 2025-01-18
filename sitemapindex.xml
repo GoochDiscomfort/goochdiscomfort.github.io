@@ -6,19 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://goochdiscomfort.github.io/categories/keyboards.xml</loc>
+  <lastmod>2025-01-18T14:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://goochdiscomfort.github.io/categories/tech.xml</loc>
+  <lastmod>2025-01-18T14:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://goochdiscomfort.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2025-01-14T14:37:00Z</lastmod>
+  <lastmod>2025-01-18T14:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://goochdiscomfort.github.io/galleries/rss.xml</loc>
-  <lastmod>2025-01-14T14:37:00Z</lastmod>
+  <lastmod>2025-01-18T14:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://goochdiscomfort.github.io/rss.xml</loc>
-  <lastmod>2025-01-14T15:22:00Z</lastmod>
+  <lastmod>2025-01-18T14:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://goochdiscomfort.github.io/sitemap.xml</loc>
-  <lastmod>2025-01-14T15:22:00Z</lastmod>
+  <lastmod>2025-01-18T14:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>
