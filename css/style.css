@@ -12,11 +12,13 @@
     margin: auto;
     height: 600px;
     padding-top: 10px;
-    padding-left: 10px;
-    background-color: rgb(224, 224, 224);
-    /*background-image: url("test2.jpg");
-    background-size: contain;*/
-    box-shadow: 10px 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    /*background-color: rgb(224, 224, 224);*/
+    background-image: url("test2.gif");
+    background-size: 100%;
+    filter: drop-shadow(10px 10px 10px #222);
+    /*box-shadow: 10px 15px;*/
   }
 header {
     
@@ -26,7 +28,7 @@ header {
 
 body {
     background-color: rgb(114, 114, 114);
-    font-family: 'courier';
+    font-family: 'Courier New';
   }
 
 li{
